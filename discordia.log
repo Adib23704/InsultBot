@@ -1,0 +1,150 @@
+2021-09-10 18:45:37 | [INFO]    | Discordia 2.9.1
+2021-09-10 18:45:37 | [INFO]    | Connecting to Discord...
+2021-09-10 18:45:38 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 18:45:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 18:45:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 18:45:39 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 18:45:39 | [INFO]    | Shard 0 : Received READY
+2021-09-10 19:13:53 | [INFO]    | Discordia 2.9.1
+2021-09-10 19:13:53 | [INFO]    | Connecting to Discord...
+2021-09-10 19:13:54 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 19:13:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 19:13:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 19:13:54 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 19:13:55 | [INFO]    | Shard 0 : Received READY
+2021-09-10 19:14:40 | [INFO]    | Discordia 2.9.1
+2021-09-10 19:14:40 | [INFO]    | Connecting to Discord...
+2021-09-10 19:14:41 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 19:14:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 19:14:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 19:14:41 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 19:14:41 | [INFO]    | Shard 0 : Received READY
+2021-09-10 19:15:50 | [INFO]    | Discordia 2.9.1
+2021-09-10 19:15:50 | [INFO]    | Connecting to Discord...
+2021-09-10 19:15:51 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 19:15:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 19:15:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 19:15:51 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 19:15:52 | [INFO]    | Shard 0 : Received READY
+2021-09-10 19:17:59 | [INFO]    | Discordia 2.9.1
+2021-09-10 19:17:59 | [INFO]    | Connecting to Discord...
+2021-09-10 19:17:59 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 19:17:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 19:18:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 19:18:00 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 19:18:00 | [INFO]    | Shard 0 : Received READY
+2021-09-10 19:18:34 | [INFO]    | Discordia 2.9.1
+2021-09-10 19:18:34 | [INFO]    | Connecting to Discord...
+2021-09-10 19:18:35 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 19:18:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 19:18:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 19:18:35 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 19:18:36 | [INFO]    | Shard 0 : Received READY
+2021-09-10 19:19:16 | [INFO]    | Discordia 2.9.1
+2021-09-10 19:19:16 | [INFO]    | Connecting to Discord...
+2021-09-10 19:19:17 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 19:19:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 19:19:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 19:19:17 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 19:19:18 | [INFO]    | Shard 0 : Received READY
+2021-09-10 19:20:08 | [INFO]    | Discordia 2.9.1
+2021-09-10 19:20:08 | [INFO]    | Connecting to Discord...
+2021-09-10 19:20:08 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 19:20:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 19:20:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 19:20:09 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 19:20:09 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:26:53 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2021-09-10 20:26:53 | [INFO]    | Shard 0 : Disconnected
+2021-09-10 20:26:53 | [INFO]    | Shard 0 : Reconnecting...
+2021-09-10 20:26:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:26:53 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:26:53 | [INFO]    | Shard 0 : Received RESUMED
+2021-09-10 20:32:04 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:32:04 | [INFO]    | Connecting to Discord...
+2021-09-10 20:32:05 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:32:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:32:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:32:06 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:32:06 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:32:28 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v7/guilds/834793298622152755/members/nil
+2021-09-10 20:34:07 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:34:07 | [INFO]    | Connecting to Discord...
+2021-09-10 20:34:07 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:34:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:34:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:34:08 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:34:08 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:39:29 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:39:29 | [INFO]    | Connecting to Discord...
+2021-09-10 20:39:30 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:39:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:39:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:39:30 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:39:31 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:44:33 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:44:33 | [INFO]    | Connecting to Discord...
+2021-09-10 20:44:34 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:44:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:44:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:44:34 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:44:35 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:44:58 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:44:58 | [INFO]    | Connecting to Discord...
+2021-09-10 20:44:59 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:44:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:45:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:45:00 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:45:00 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:45:51 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:45:51 | [INFO]    | Connecting to Discord...
+2021-09-10 20:45:52 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:45:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:45:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:45:52 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:45:52 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:46:30 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:46:30 | [INFO]    | Connecting to Discord...
+2021-09-10 20:46:33 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:46:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:46:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:46:33 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:46:34 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:46:37 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/834793299209879552/messages
+2021-09-10 20:46:43 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/834793299209879552/messages
+2021-09-10 20:46:59 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:46:59 | [INFO]    | Connecting to Discord...
+2021-09-10 20:46:59 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:46:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:47:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:47:00 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:47:00 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:47:02 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/834793299209879552/messages
+2021-09-10 20:47:56 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:47:56 | [INFO]    | Connecting to Discord...
+2021-09-10 20:47:56 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:47:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:47:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:47:57 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:47:57 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:48:42 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:48:42 | [INFO]    | Connecting to Discord...
+2021-09-10 20:48:43 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:48:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:48:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:48:44 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:48:44 | [INFO]    | Shard 0 : Received READY
+2021-09-10 20:50:47 | [INFO]    | Discordia 2.9.1
+2021-09-10 20:50:47 | [INFO]    | Connecting to Discord...
+2021-09-10 20:50:48 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 20:50:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 20:50:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 20:50:48 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 20:50:49 | [INFO]    | Shard 0 : Received READY
+2021-09-10 21:00:54 | [INFO]    | Discordia 2.9.1
+2021-09-10 21:00:54 | [INFO]    | Connecting to Discord...
+2021-09-10 21:00:55 | [INFO]    | Authenticated as Adib's Bot#6398
+2021-09-10 21:00:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-09-10 21:00:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-09-10 21:00:56 | [INFO]    | Shard 0 : Received HELLO
+2021-09-10 21:00:56 | [INFO]    | Shard 0 : Received READY
