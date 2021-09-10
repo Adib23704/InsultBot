@@ -6,7 +6,7 @@
 ## Features:
  - Get Insulted!
  - Insult someone else.
- - Fun *dunno how its a feature*.
+ - Fun *(dunno how its a feature)*.
  
 ## How to install:
 1. Download the whole repo by [Click Here](https://github.com/Adib23704/InsultBot/archive/refs/heads/master.zip)
