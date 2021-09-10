@@ -31,7 +31,7 @@ Note: Make sure you **watch** this repo so you can get notified for future updat
 ![insultSomeone](https://raw.githubusercontent.com/Adib23704/InsultBot/master/screenshots/insult2.png)
 
 #### Credits Command
-![credits](https://raw.githubusercontent.com/Adib23704/CoronaBot/master/screenshots/credits.png)
+![credits](https://raw.githubusercontent.com/Adib23704/InsultBot/master/screenshots/credits.png)
 
 ## Summery
 This bot was fully made by Adib23704 using LUA Language with Luvit SDK. It's fully open-source, you're allowed to change anything *(If you know what you're doing)*. But, keeping the credit of the developer is highly appreciated as it supports the developer.
