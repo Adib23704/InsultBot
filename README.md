@@ -9,7 +9,7 @@
  - Fun *dunno how its a feature*.
  
 ## How to install:
-1. Download the whole repo by [Click Here](https://github.com/Adib23704/InsultBot/archive/refs/heads/main.zip)
+1. Download the whole repo by [Click Here](https://github.com/Adib23704/InsultBot/archive/refs/heads/master.zip)
 2. Extract the ZIP and go inside the folder and you should see some files named `bot.lua`, `luvit.exe`, `lit.exe` and more..
 3. Open **`config.json`** and replace **`YOUR_BOT_TOKEN`** with your bot token. Get from [here](https://discord.com/developers/applications).
 4. Save **`config.json`** and close it.
