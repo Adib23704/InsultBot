@@ -1,5 +1,5 @@
 # InsultBot
-![lastupdate](https://img.shields.io/github/last-commit/Adib23704/InsultBot?label=Last%20Update&style=flat-square) ![language](https://img.shields.io/github/languages/top/Adib23704/Insult?color=44cc11&style=flat-square)
+![lastupdate](https://img.shields.io/github/last-commit/Adib23704/InsultBot?label=Last%20Update&style=flat-square) ![language](https://img.shields.io/github/languages/top/Adib23704/InsultBot?color=44cc11&style=flat-square)
 
 ### **InsultBot** is a fully **Open-Source** Discord Bot project made by [**Adib23704**](https://adib23704.github.io) using [**EvilInsult**](https://evilinsult.com)'s API.
 
